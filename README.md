@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Mayank Uppal 👋</h1>
 
 <p align="left">
-  <em> Full Stack Developer | Software Developer | Data Analyst Enthusiast</em>
+  <em> 💻 Software Developer | Full Stack · Data Analytics | Open to Opportunities </em>
 </p>
 
 <p align="left">
@@ -24,8 +24,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.Tech in Electrical Engineering , Punjab Engineering College , Chandigarh**
-- 📍 Based in **Zirakpur , Punjab , India**
+- 🎓 B.Tech in Electrical Engineering, Punjab Engineering College, Chandigarh
+- 🔄 Actively transitioning into **Software Development & Data Analytics**
+- 🤝 Open to **entry-level roles, internships & freelance projects**
+- 📍 Based in Zirakpur, Punjab, India
 
 ---
 
