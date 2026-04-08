@@ -25,8 +25,6 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.Tech in Electrical Engineering , Punjab Engineering College , Chandigarh**
-- 💼 **EX - Usha International Limited (GET) | EX - ESH Value Technologies Pvt Ltd (The Future University) (Community Manager Intern) 
-- 🔍 Open to **full-time roles / freelance projects / collaborations**
 - 📍 Based in **Chandigarh, India**
 
 ---
