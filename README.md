@@ -24,9 +24,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **[B.Tech in Electrical Engineering , Punjab Engineering College , Chandigarh]**
-- 💼 EX - USHA INTERNATIONAL LIMITED (GET) | EX - ESH VALUE TECHNOLOGIES PVT LTD (THE FUTURE UNIVERSITY) (COMMUNITY MANAGER INTERN) 
-- 🌱 Learning **[What you're currently learning — e.g. System Design, Docker, AWS]**
+- 🎓 **B.Tech in Electrical Engineering , Punjab Engineering College , Chandigarh**
+- 💼 **EX - Usha International Limited (GET) | EX - ESH Value Technologies Pvt Ltd (The Future University) (Community Manager Intern) 
 - 🔍 Open to **full-time roles / freelance projects / collaborations**
 - 📍 Based in **Chandigarh, India**
 
@@ -69,8 +68,8 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 [RentIQ Frontend](https://github.com/kshitijjj/RentIQ_Frontend)
-> **[Built a full stack MERN based rent management website enabling property owners to add properties and view tenants.
+### 🏠 RentIQ (https://github.com/kshitijjj/RentIQ_Frontend)
+> **Built a full stack MERN based rent management website enabling property owners to add properties and view tenants.
 . Implemented a scalable backend architecture using Node.js, Express.js following a structured Routes - Controller - Service
 pattern, improving maintainability and suppor future scalability
 . Used Brevo which allows property owners to send invite links on their email to multiple tenants at once directly from the
@@ -78,12 +77,12 @@ website
 . Deployed backend on Render and frontend on Vercel
 . Constructed frontend using React , Daisyui and Flowbite enabling owners to view tenant details
 . Developed APIs for property creation, tenants , email-based invitation, and invite verification.
-. Utilized AI tools for debugging, improving logic , debugging deployment errors and understanding development concepts]** 
-> `React` `Nodejs` `Expressjs` `MongoDB` `Flowbite`
+. Utilized AI tools for debugging, improving logic , debugging deployment errors and understanding development concepts** 
+> **`React` `Nodejs` `Expressjs` `MongoDB` `Flowbite`**
 
 ---
 
-### 💼 [Job Board Project](https://github.com/kshitijjj/Job_Board_Project)
+### 💼 Job Board Project](https://github.com/kshitijjj/Job_Board_Project)
 > **[Developed a Job Board Backend API using node.js , Express.js and MongoDB following a layered architecture
 Routes - Controllers - Services
 . Integrated a third party API from RapidApi to fetch jobs by category and location, storing results in database reducing
@@ -95,8 +94,8 @@ inputs after deployment, overcoming Ollama limitations
 . Implemented JWT and Google Oauth authentication
 . Earlier built a basic version in Flask while learning the Flask framework , now rebuilt this project from scratch using this
 tech stack with additonal features
-. Utilized ChatGPT for debugging errors and in implementing the Google Oauth authentication]** — e.g. A full-stack job board application where employers can post jobs and candidates can apply.  
-> `Nodejs` `Expressjs` `MongoDB` `Ollama` `Gemini API` `JWT`
+. Utilized ChatGPT for debugging errors and in implementing the Google Oauth authentication** — e.g. A full-stack job board application where employers can post jobs and candidates can apply.  
+> **`Nodejs` `Expressjs` `MongoDB` `Ollama` `Gemini API` `JWT`**
 
 ---
 
@@ -118,7 +117,7 @@ tech stack with additonal features
 I'm always open to discussing **new projects, freelance work, or just a good tech conversation.**
 
 📧 **myank07official@gmail.com**  
-🔗 **[linkedin.com/in/mayank-uppal-3591a5229](https://linkedin.com/in/mayank-uppal-3591a5229)**
+🔗 **linkedin.com/in/mayank-uppal-3591a5229(https://linkedin.com/in/mayank-uppal-3591a5229)**
 
 ---
 
