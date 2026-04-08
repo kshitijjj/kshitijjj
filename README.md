@@ -1,8 +1,8 @@
 <h1 align="left">Hi there, I'm Mayank Uppal 👋</h1>
 
-<p align="left" font="bold">
- 💻 Software Developer | Full Stack · Data Analytics | Open to Opportunities
-</p>
+<h4 align="left">
+ 💻 Software Developer  |  Full Stack · Data Analytics  |  Open to Opportunities
+</h4>
 
 <p align="left">
   <a href="https://linkedin.com/in/mayank-uppal-3591a5229">
