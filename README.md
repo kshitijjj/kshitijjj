@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mayank Uppal 👋</h1>
 
-<p align="center">
+<p align="left">
   <em> Full Stack Developer | Software Developer | Data Analyst Enthusiast</em>
 </p>
 
@@ -61,8 +61,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-> ⚠️ *Remove any tools above you don't use, and add ones that are missing.*
 
 ---
 
