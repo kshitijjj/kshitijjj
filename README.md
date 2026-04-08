@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Mayank Uppal 👋</h1>
 
-<p align="left">
-  <em> 💻 Software Developer | Full Stack · Data Analytics | Open to Opportunities </em>
+<p align="left" font="bold">
+ 💻 Software Developer | Full Stack · Data Analytics | Open to Opportunities
 </p>
 
 <p align="left">
