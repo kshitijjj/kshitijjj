@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mayank 👋</h1>
+<h1 align="center">Hi there, I'm Mayank Uppal 👋</h1>
 
 <p align="center">
   <em> Full Stack Developer | Software Developer | Data Analyst Enthusiast</em>
@@ -24,7 +24,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **[B.TECH in Electrical Engineering , Punjab Engineering College , Chandigarh]** — e.g. B.Tech in Computer Science, XYZ University
+- 🎓 **[B.Tech in Electrical Engineering , Punjab Engineering College , Chandigarh]**
 - 💼 EX - USHA INTERNATIONAL LIMITED (GET) | EX - ESH VALUE TECHNOLOGIES PVT LTD (THE FUTURE UNIVERSITY) (COMMUNITY MANAGER INTERN) 
 - 🌱 Learning **[What you're currently learning — e.g. System Design, Docker, AWS]**
 - 🔍 Open to **full-time roles / freelance projects / collaborations**
