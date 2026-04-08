@@ -25,7 +25,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.Tech in Electrical Engineering , Punjab Engineering College , Chandigarh**
-- 📍 Based in **Chandigarh, India**
+- 📍 Based in **Zirakpur , Punjab, India**
 
 ---
 
