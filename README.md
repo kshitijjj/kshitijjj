@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Mayank Uppal 👋</h1>
+<h1 align="left">Hi there, I'm Mayank Uppal 👋</h1>
 
 <p align="left">
   <em> Full Stack Developer | Software Developer | Data Analyst Enthusiast</em>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/mayank-uppal-3591a5229">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
