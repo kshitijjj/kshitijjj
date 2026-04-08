@@ -25,7 +25,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.Tech in Electrical Engineering , Punjab Engineering College , Chandigarh**
-- 📍 Based in **Zirakpur , Punjab, India**
+- 📍 Based in **Zirakpur , Punjab , India**
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 RentIQ (https://github.com/kshitijjj/RentIQ_Frontend)
+### 🏠 RentIQ (https://rentiq-eight.vercel.app/)
 > **Built a full stack MERN based rent management website enabling property owners to add properties and view tenants.
 . Implemented a scalable backend architecture using Node.js, Express.js following a structured Routes - Controller - Service
 pattern, improving maintainability and suppor future scalability
@@ -78,7 +78,7 @@ website
 
 ---
 
-### 💼 Job Board Project](https://github.com/kshitijjj/Job_Board_Project)
+### 💼 Job Board Project](https://job-board-project-1i66.onrender.com/home)
 > **[Developed a Job Board Backend API using node.js , Express.js and MongoDB following a layered architecture
 Routes - Controllers - Services
 . Integrated a third party API from RapidApi to fetch jobs by category and location, storing results in database reducing
