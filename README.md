@@ -100,12 +100,12 @@ tech stack with additonal features
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijjj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijjj&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Uppal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Uppal&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijjj&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Uppal&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---
